@@ -22,11 +22,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## App Directories
 
-* [appsco.pe](https://appsco.pe)
 * [0data.app](https://0data.app)
 * [paquet.app](https://paquet.app/home)
-* [pwalist.app](https://www.pwalist.app/)
-* [store.app](https://store.app/)
+* [pwa.directory](https://pwa.directory)
+* [webapps.directory](https://webapps.directory)
 
 ## Apps
 
